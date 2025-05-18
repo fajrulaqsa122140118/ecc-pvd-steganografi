@@ -1,0 +1,8 @@
+# Abaikan file sementara & cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Abaikan environment lokal jika ada
+.env
+.vscode/
